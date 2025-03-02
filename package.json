@@ -54,7 +54,7 @@
   "devDependencies": {
     "concurrently": "^7.3.0",
     "cross-env": "^7.0.3",
-    "electron": "^19.0.8",
+    "electron": "^34.3.0",
     "electron-builder": "^23.1.0",
     "electronmon": "^2.0.2",
     "eslint": "^8.20.0",
